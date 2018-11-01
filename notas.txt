@@ -1,0 +1,13 @@
+ORM: Object Relational Mapping, proporciona lo necesario para conectar nuestra aplicación con la base de datos.
+Ejemplo de este es la librería de Laravel: illuminate/database.
+
+Para mas librerías visitar https://packagist.org
+
+PSR: PHP Standars Recomendations, son recomendaciones de estandares PHP para desarrollar aplicaciones mas robustas y modulares.
+Disponibles en: https://packagist.org/psr
+
+PSR7: Es un estandar que nos permite normalizar un request y un response en PHP. Este estandar sirve como interface de mensajes HTTP, peticiones y repuestas hacia y desde nuestra aplicación. Siendo usada para controlar el acceso o las llamadas a las rutas de nuestro sistema.
+
+Un ejemplo de esta interface es zend-diactoros de Zendframework, ver: https://packagist.org/packages/zendframework/zend-diactoros.
+
+Para manejar el mapeo de las rutas usamos aura/router
